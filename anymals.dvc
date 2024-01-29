@@ -1,0 +1,6 @@
+outs:
+- md5: e5a7bc5eaf350c9dba44b4af80c67db7.dir
+  size: 12332117
+  nfiles: 4
+  hash: md5
+  path: anymals
