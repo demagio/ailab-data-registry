@@ -1,0 +1,6 @@
+outs:
+- md5: 04c44fd98e43d5268a1e3bdb67835d2f.dir
+  size: 46132928
+  nfiles: 19997
+  hash: md5
+  path: 20_newsgroups
