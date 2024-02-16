@@ -1,6 +1,4 @@
 [core]
-    remote = test
-['remote "s3-remote"']
+    remote = s3-storage
+['remote "s3-storage"']
     url = s3://943996240568-eu-west-1-tps-innovation/dvc-test/ailab-data-registry/
-['remote "test"']
-    url = s3://943996240568-eu-west-1-tps-innovation/dvc-test/test-dir/
